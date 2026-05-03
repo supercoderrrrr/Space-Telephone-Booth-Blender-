@@ -1,0 +1,11 @@
+# 过滤 Blender 自动生成的备份文件
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+
+# 忽略退出时的自动保存
+quit.blend
+
+# 忽略渲染缓存
+/RenderOutput/
